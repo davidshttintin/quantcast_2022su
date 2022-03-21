@@ -3,7 +3,7 @@
 ## To run my code
 `$ python3 main.py data/cookie_log.csv -d 2018-12-09`
 
-Note: you can find logs of my project in `processor.log`
+Note: the logging output of my code can be found in `processor.log`
 
 ## To run tests
 `$ cd tests/`
